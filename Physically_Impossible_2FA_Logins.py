@@ -7,7 +7,7 @@ import os
 import pandas as pd
 import time
 
-# Make df more reader friendly in 'Run' windows
+# Make df more reader friendly in 'Run' window
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None)
 pd.set_option('expand_frame_repr', False)
